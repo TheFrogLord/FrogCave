@@ -1,1 +1,2 @@
 Pierwszy wpis w first-commit
+Drugi testowy wpis
